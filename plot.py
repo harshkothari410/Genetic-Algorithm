@@ -3,7 +3,7 @@ import random
 import math
 gen_best = []
 n = 0
-
+#This is for plotting purpose
 #initilization of population
 def initialization():
 	population = []
