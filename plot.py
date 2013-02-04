@@ -108,3 +108,4 @@ ylabel('Best Gene')
 title('Genetic Algorithm')
 
 show()
+#end
